@@ -9,7 +9,7 @@
 
 
 
-[![lation 247robbery youtube preview](https://img.lationscripts.com/other/lation-mining-thumbnail.jpg)](https://youtu.be/yy2uLH5mtcs)
+[![lation 247robbery youtube preview](https://img.lationscripts.com/other/lation-mining-thumbnail.jpg)]([https://youtu.be/yy2uLH5mtcs](https://youtu.be/eB_TK2G7REw?si=TgN013j-0J4dvKIj))
 
 ## 🔑 Key Features
 
