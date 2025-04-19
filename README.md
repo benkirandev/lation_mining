@@ -1,8 +1,6 @@
-<h1 align="center">
+<h1>
     <br>
-    <a href="https://lationscripts.com?utm_source=github&utm_medium=free-script"><img src="https://img.lationscripts.com/icons/lation-scripts-logo.png" alt="Lation Scripts logo"><a>
-    <br>
-        Lation Scripts
+        BN Scripts
     <br>
 </h1>
 
@@ -108,23 +106,3 @@ The following resources are **required** in order to setup this resource:
   - **Do not delete** the install folder or the ```.sql``` file - *or you will get errors*
 * **Step 6**
   - Restart your server & enjoy!
-
-## ℹ️ Support
-
-If you have any suggestions for new features, discovered a bug or having a problem with the script, feel free to contact us at anytime via:
-* [Discord](https://discord.gg/9EbY4nM5uu)
-* [Email](mailto:support@lationscripts.com)
-
-Or by submitting a new issue on the Github page!
-
-## 👉 More Scripts
-If you've enjoyed (*or are enjoying*) this script, you'd probably really enjoy our other scripts! 
-
-* 🌿 [Advanced Weed Growing](https://lationscripts.com/product/weed-growing?utm_source=github&utm_medium=free-script)
-* ❄️ [Advanced Cocaine](https://lationscripts.com/product/coke-processing?utm_source=github&utm_medium=free-script)
-* 💉 [Advanced Meth Crafting](https://lationscripts.com/product/meth-crafting?utm_source=github&utm_medium=free-script)
-* 🔨 [Advanced Chop Shop](https://lationscripts.com/product/chop-shop?utm_source=github&utm_medium=free-script)
-* 💰 [Advanced Money Laundering](https://lationscripts.com/product/money-wash?utm_source=github&utm_medium=free-script)
-* 🔍 [Advanced Metal Detecting](https://lationscripts.com/product/metal-detecting?utm_source=github&utm_medium=free-script)
-* 🤿 [Advanced Scuba Diving](https://lationscripts.com/product/scuba-diving?utm_source=github&utm_medium=free-script)
-* 💊 [Advanced Drug Sales](https://lationscripts.com/product/drug-selling?utm_source=github&utm_medium=free-script)
