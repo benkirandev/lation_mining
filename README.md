@@ -11,13 +11,6 @@
     <img src="https://img.shields.io/github/downloads/iamlation/lation_mining/total?logo=github&style=social">
 </p>
 
-<p align="center">
-    <a href="#key-features">Key Features</a> •
-    <a href="#dependencies">Dependencies</a> •
-    <a href="#installation">Installation</a> •
-    <a href="#support">Support</a> •
-    <a href="#more-scripts">More Scripts</a>
-</p>
 
 [![lation 247robbery youtube preview](https://img.lationscripts.com/other/lation-mining-thumbnail.jpg)](https://youtu.be/yy2uLH5mtcs)
 
